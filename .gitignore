@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+products.db
+execution.log
+ecommerce_products.xlsx
+.vscode/
